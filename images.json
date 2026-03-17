@@ -1,326 +1,4 @@
 {
-    "Architektur": [
-        {
-            "name": "1DSCF5218.jpg",
-            "ratio": 1.6666666666666667
-        },
-        {
-            "name": "DSCF2433.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF2451.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF2470.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF2727.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF2759.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF3654.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF3786.jpg",
-            "ratio": 1.9569471624266144
-        },
-        {
-            "name": "DSCF3792.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF3873.jpg",
-            "ratio": 1.524390243902439
-        },
-        {
-            "name": "DSCF4409.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF4438.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF4439.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF4579.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF4585.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF4588.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF4600.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF4606.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF4607.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF4609.jpg",
-            "ratio": 1.5003750937734435
-        },
-        {
-            "name": "DSCF4729.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF5219.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF5228.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF5512.jpg",
-            "ratio": 1.5748031496062993
-        },
-        {
-            "name": "DSCF5631.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF5738.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF5747.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF5753.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF5793.jpg",
-            "ratio": 0.6455
-        },
-        {
-            "name": "DSCF5842.jpg",
-            "ratio": 0.75
-        },
-        {
-            "name": "DSCF6043.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF6132.jpg",
-            "ratio": 0.6665
-        },
-        {
-            "name": "DSCF6136.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF6177.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF6495.jpg",
-            "ratio": 1.7769880053309641
-        },
-        {
-            "name": "DSCF6497.jpg",
-            "ratio": 1.7769880053309641
-        },
-        {
-            "name": "DSCF7237.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF7240.jpg",
-            "ratio": 1.3333333333333333
-        },
-        {
-            "name": "DSCF7241.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7242.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7243.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7246.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF7251.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7294.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7295.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7296.jpg",
-            "ratio": 0.6665
-        },
-        {
-            "name": "DSCF7463.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7480.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF7488.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7577.jpg",
-            "ratio": 1.5003750937734435
-        },
-        {
-            "name": "DSCF7661.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF7722.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7764.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF7767.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7768.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7775.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7783.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7795.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7798.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7799.jpg",
-            "ratio": 0.75
-        },
-        {
-            "name": "DSCF7802.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7882.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7888.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7894.jpg",
-            "ratio": 0.6665
-        },
-        {
-            "name": "DSCF7900.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF7908.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF7911.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF7947.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF8046.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF8047.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF8052.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF8372.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF8386.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF9287.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF9289-2.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF9289.jpg",
-            "ratio": 1.4998125234345707
-        },
-        {
-            "name": "DSCF9295-2.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF9295-3.jpg",
-            "ratio": 0.66675
-        },
-        {
-            "name": "DSCF9295-4.jpg",
-            "ratio": 0.6665
-        },
-        {
-            "name": "DSCF9295.jpg",
-            "ratio": 0.66675
-        }
-    ],
     "Landschaft": [
         {
             "name": "1DSCF1932.jpg",
@@ -1261,6 +939,328 @@
         {
             "name": "DSCF8961.jpg",
             "ratio": 1.4998125234345707
+        }
+    ],
+    "XYZ-Architektur_Test": [
+        {
+            "name": "1DSCF5218.jpg",
+            "ratio": 1.6666666666666667
+        },
+        {
+            "name": "DSCF2433.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF2451.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF2470.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF2727.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF2759.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF3654.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF3786.jpg",
+            "ratio": 1.9569471624266144
+        },
+        {
+            "name": "DSCF3792.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF3873.jpg",
+            "ratio": 1.524390243902439
+        },
+        {
+            "name": "DSCF4409.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF4438.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF4439.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF4579.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF4585.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF4588.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF4600.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF4606.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF4607.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF4609.jpg",
+            "ratio": 1.5003750937734435
+        },
+        {
+            "name": "DSCF4729.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF5219.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF5228.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF5512.jpg",
+            "ratio": 1.5748031496062993
+        },
+        {
+            "name": "DSCF5631.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF5738.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF5747.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF5753.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF5793.jpg",
+            "ratio": 0.6455
+        },
+        {
+            "name": "DSCF5842.jpg",
+            "ratio": 0.75
+        },
+        {
+            "name": "DSCF6043.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF6132.jpg",
+            "ratio": 0.6665
+        },
+        {
+            "name": "DSCF6136.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF6177.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF6495.jpg",
+            "ratio": 1.7769880053309641
+        },
+        {
+            "name": "DSCF6497.jpg",
+            "ratio": 1.7769880053309641
+        },
+        {
+            "name": "DSCF7237.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF7240.jpg",
+            "ratio": 1.3333333333333333
+        },
+        {
+            "name": "DSCF7241.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7242.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7243.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7246.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF7251.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7294.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7295.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7296.jpg",
+            "ratio": 0.6665
+        },
+        {
+            "name": "DSCF7463.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7480.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF7488.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7577.jpg",
+            "ratio": 1.5003750937734435
+        },
+        {
+            "name": "DSCF7661.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF7722.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7764.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF7767.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7768.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7775.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7783.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7795.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7798.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7799.jpg",
+            "ratio": 0.75
+        },
+        {
+            "name": "DSCF7802.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7882.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7888.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7894.jpg",
+            "ratio": 0.6665
+        },
+        {
+            "name": "DSCF7900.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF7908.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF7911.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF7947.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF8046.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF8047.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF8052.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF8372.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF8386.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF9287.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF9289-2.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF9289.jpg",
+            "ratio": 1.4998125234345707
+        },
+        {
+            "name": "DSCF9295-2.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF9295-3.jpg",
+            "ratio": 0.66675
+        },
+        {
+            "name": "DSCF9295-4.jpg",
+            "ratio": 0.6665
+        },
+        {
+            "name": "DSCF9295.jpg",
+            "ratio": 0.66675
         }
     ]
 }
